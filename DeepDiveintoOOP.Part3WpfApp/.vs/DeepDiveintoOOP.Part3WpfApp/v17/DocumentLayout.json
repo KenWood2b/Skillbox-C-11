@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\manageaccountswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\manageaccountswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\transferfundswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\transferfundswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|d:\\c#\\deepdiveintooop.part3wpfapp\\deepdiveintooop.part3wpfapp\\transferfundswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\transferfundswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\manageaccountswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\manageaccountswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\addclientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\addclientwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\addclientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\addclientwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\deepdiveintooop.part3wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619AA02-2939-4504-B119-8B09DEDC10B7}|DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp.csproj|solutionrelative:deepdiveintooop.part3wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{93c5e7ad-af06-49e6-a756-b8f3eaca790d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferFundsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\TransferFundsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\TransferFundsWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\TransferFundsWindow.xaml.cs",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\TransferFundsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:01:05.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransferFundsWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\TransferFundsWindow.xaml",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\TransferFundsWindow.xaml",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\TransferFundsWindow.xaml",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\TransferFundsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T14:00:16.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageAccountsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\ManageAccountsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\ManageAccountsWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\ManageAccountsWindow.xaml.cs",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\ManageAccountsWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:59:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageAccountsWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\ManageAccountsWindow.xaml",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\ManageAccountsWindow.xaml",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\ManageAccountsWindow.xaml",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\ManageAccountsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T13:58:32.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddClientWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\AddClientWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\AddClientWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\AddClientWindow.xaml.cs",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\AddClientWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:56:40.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddClientWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\AddClientWindow.xaml",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\AddClientWindow.xaml",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\AddClientWindow.xaml",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\AddClientWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T13:56:12.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITransaction.cs",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\ITransaction.cs",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\ITransaction.cs",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\ITransaction.cs",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\ITransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:54:21.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\IClient.cs",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\IClient.cs",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\IClient.cs",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\IClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:44:34.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\Bank.cs",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\Bank.cs",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\Bank.cs",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:15:20.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\Client.cs",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\Client.cs",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\Client.cs",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:02:52.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\Account.cs",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\Account.cs",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\Account.cs",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:02:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\IAccount.cs",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\IAccount.cs",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\IAccount.cs",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:51:27.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T12:50:50.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeepDiveintoOOP.Part3WpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\DeepDiveintoOOP.Part3WpfApp\\DeepDiveintoOOP.Part3WpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DeepDiveintoOOP.Part3WpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:50:50.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
