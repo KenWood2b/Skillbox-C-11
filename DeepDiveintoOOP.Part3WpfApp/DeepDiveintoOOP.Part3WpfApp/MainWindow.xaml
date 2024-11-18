@@ -5,19 +5,32 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DeepDiveintoOOP.Part3WpfApp"
         mc:Ignorable="d"
-        Title="Банковская система" Height="450" Width="800">
+         Title="Банковская система" Height="450" Width="860">
     <Grid>
-        <DataGrid x:Name="ClientsGrid" AutoGenerateColumns="False" Margin="10,10,10,200">
+        <!-- Выбор роли -->
+        <ComboBox x:Name="RoleComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="10"
+                  SelectionChanged="RoleComboBox_SelectionChanged">
+            <ComboBoxItem Content="Консультант" />
+            <ComboBoxItem Content="Менеджер" />
+        </ComboBox>
+
+        <!-- Список клиентов -->
+        <DataGrid x:Name="ClientsGrid" AutoGenerateColumns="False" Margin="10,50,10,200">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="ID" Binding="{Binding Id}" />
                 <DataGridTextColumn Header="Имя" Binding="{Binding Name}" />
                 <DataGridTextColumn Header="Счета" Binding="{Binding Accounts.Count}" />
             </DataGrid.Columns>
         </DataGrid>
+
+        <!-- Кнопки -->
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,10">
-            <Button Content="Добавить клиента" Click="AddClient_Click" Margin="5" />
-            <Button Content="Управление счетами" Click="ManageAccounts_Click" Margin="5" />
-            <Button Content="Перевод средств" Click="TransferFunds_Click" Margin="5" />
+            <Button Content="Добавить клиента" x:Name="AddClientButton" Click="AddClient_Click" Margin="5" IsEnabled="False" />
+            <Button Content="Управление счетами" x:Name="ManageAccountsButton" Click="ManageAccounts_Click" Margin="5" IsEnabled="False" />
+            <Button Content="Перевод средств" x:Name="TransferFundsButton" Click="TransferFunds_Click" Margin="5" IsEnabled="False" />
+            <Button Content="Сохранить данные" Click="SaveButton_Click" Margin="5" />
+            <Button Content="Загрузить данные" Click="LoadButton_Click" Margin="5" />
+            
         </StackPanel>
     </Grid>
 </Window>
