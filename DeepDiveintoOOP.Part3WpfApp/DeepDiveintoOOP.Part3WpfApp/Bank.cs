@@ -24,32 +24,18 @@ namespace DeepDiveintoOOP.Part3WpfApp
         // Сохранение клиентов в файл
         public void SaveClientsToFile(string filePath)
         {
-            try
-            {
-                var json = JsonSerializer.Serialize(Clients);
-                File.WriteAllText(filePath, json);
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Ошибка при сохранении клиентов: {ex.Message}");
-            }
+            var options = new JsonSerializerOptions { WriteIndented = true };
+            var json = JsonSerializer.Serialize(Clients, options);
+            File.WriteAllText(filePath, json);
         }
 
         // Загрузка клиентов из файла
         public void LoadClientsFromFile(string filePath)
         {
-            try
+            if (File.Exists(filePath))
             {
-                if (File.Exists(filePath))
-                {
-                    var json = File.ReadAllText(filePath);
-                    Clients = JsonSerializer.Deserialize<List<Client>>(json) ?? new List<Client>();
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Ошибка при загрузке клиентов: {ex.Message}");
-                Clients = new List<Client>(); // Создаем пустой список в случае ошибки
+                var json = File.ReadAllText(filePath);
+                Clients = JsonSerializer.Deserialize<List<Client>>(json) ?? new List<Client>();
             }
         }
 
